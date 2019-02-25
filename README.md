@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # frontend
    
 ## Project setup
@@ -24,3 +25,7 @@ npm run test
 ```
 npm run lint
 ```
+=======
+# judyst-frontend
+Frontend of Judyst project
+>>>>>>> 31d50c1be04381380b1eb3fdfe51aeb7fd6c0465
